@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus>
+    <ColorSchemes Version="13">
+      <Names Count="1">
+        <Item1 Value="Vscode_theme"/>
+      </Names>
+      <Globals Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="7368816" Style="fsBold"/>
+          <ahaCodeFoldingTree Foreground="4210752"/>
+          <ahaDefault Background="1973790" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="16762823" Foreground="clGray"/>
+          <ahaEnabledBreakpoint Background="16762823" Foreground="clBlack"/>
+          <ahaErrorLine Background="clRed" Foreground="clWhite"/>
+          <ahaExecutionPoint Background="10066380" Foreground="clBlack"/>
+          <ahaFoldedCode Foreground="11316396"/>
+          <ahaFoldedCodeLine Foreground="4210752"/>
+          <ahaGutter Background="2236962" Foreground="clWhite"/>
+          <ahaGutterSeparator Foreground="4210752"/>
+          <ahaHiddenCodeLine Foreground="4210752"/>
+          <ahaHighlightAll Background="6970449"/>
+          <ahaHighlightWord Background="6970449"/>
+          <ahaIfDefBlockActive Foreground="50787"/>
+          <ahaIfDefBlockInactive Foreground="clMoneyGreen"/>
+          <ahaIfDefBlockTmpActive Foreground="clTeal"/>
+          <ahaIfDefNodeActive Foreground="50787"/>
+          <ahaIfDefNodeInactive Foreground="clMoneyGreen"/>
+          <ahaIfDefNodeTmpActive Foreground="clTeal"/>
+          <ahaIncrementalSearch Background="6904400"/>
+          <ahaInvalidBreakpoint Background="clGreen" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="7368816"/>
+          <ahaLineNumber Foreground="11316396"/>
+          <ahaModifiedLine Background="6970449" Foreground="8454016" FrameColor="2987775"/>
+          <ahaMouseLink Foreground="4472295" FrameColor="4472295" FrameEdges="sfeBottom"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clWhite"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="14456370"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="1360880"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="11796660"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clYellow"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="7260205"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="3951590"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="11993271"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="2325990"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="3951590"/>
+          <ahaOverviewGutter Background="4210752" Foreground="1973790" FrameColor="7368816"/>
+          <ahaRightMargin Background="15790320" Foreground="4210752"/>
+          <ahaSyncroEditArea Background="clMoneyGreen"/>
+          <ahaSyncroEditCur FrameColor="clFuchsia"/>
+          <ahaSyncroEditOther FrameColor="9744532"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditOther FrameColor="clMaroon"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="6904400"/>
+          <ahaUnknownBreakpoint Background="clGreen" Foreground="clWhite"/>
+          <ahaWordGroup FrameColor="clRed"/>
+        </SchemeVscode_theme>
+      </Globals>
+      <LangPlain_Text Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangPlain_Text>
+      <LangObjectPascal Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <Assembler Foreground="clMoneyGreen" Style="fsItalic"/>
+          <Comment Foreground="3970640" Style="fsBold"/>
+          <Directive Foreground="9843115" Style="fsBold"/>
+          <Number Background="3154968" Foreground="9425811"/>
+          <PasDoc_Symbol Foreground="clHighlight"/>
+          <Reserved_word Foreground="13793325" Style="fsBold"/>
+          <String Foreground="7709439"/>
+          <Symbol Foreground="11826130"/>
+        </SchemeVscode_theme>
+      </LangObjectPascal>
+      <LangLazarus_Form_definition Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Key Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangLazarus_Form_definition>
+      <LangXML_document Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Attribute_Name Background="3154968" Foreground="11505963"/>
+          <Attribute_Value Background="3154968" Foreground="4472295" Style="fsBold"/>
+          <CDATA_Section Background="3154968" Foreground="clWhite" Style="fsItalic"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <DOCTYPE_Section Background="3154968" Foreground="9843115" Style="fsItalic"/>
+          <Element_Name Background="3154968" Foreground="4472295" Style="fsBold"/>
+          <Entity_Reference Background="3154968" Foreground="clWhite" Style="fsBold"/>
+          <Namespace_Attribute_Name Background="3154968" Foreground="11505963"/>
+          <Namespace_Attribute_Value Background="3154968" Foreground="4472295" Style="fsBold"/>
+          <Processing_Instruction Background="3154968" Foreground="clLime"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+          <Text Background="3154968" Foreground="4472295" Style="fsBold"/>
+        </SchemeVscode_theme>
+      </LangXML_document>
+      <LangHTML_document Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Asp Background="clYellow" Foreground="clBlack"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Escape_ampersand Foreground="clLime" Style="fsBold"/>
+          <Identifier Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <Symbol Foreground="clRed"/>
+          <Unknown_word Foreground="clRed" Style="fsBold"/>
+          <Value Foreground="16744448"/>
+        </SchemeVscode_theme>
+      </LangHTML_document>
+      <LangC__ Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Assembler Background="3154968" Foreground="clLime"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Preprocessor Background="3154968" Foreground="9843115" Style="fsBold"/>
+          <Reserved_word Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <Space Background="3154968" Foreground="clWhite"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangC__>
+      <LangPerl Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Pragma Background="3154968" Foreground="9843115" Style="fsBold"/>
+          <Reserved_word Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <Space Background="3154968" Foreground="clWhite"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+          <Variable Background="clWhite" Foreground="clPurple" Style="fsBold"/>
+        </SchemeVscode_theme>
+      </LangPerl>
+      <LangJava Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Documentation Background="3154968" Foreground="clWhite" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Reserved_word Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <Space Background="3154968" Foreground="clWhite"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangJava>
+      <LangUNIX_Shell_Script Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Reserved_word Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+          <Variable Background="clWhite" Foreground="clPurple"/>
+        </SchemeVscode_theme>
+      </LangUNIX_Shell_Script>
+      <LangPython Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Documentation Background="3154968" Foreground="clWhite" Style="fsBold"/>
+          <Float Background="3154968" Foreground="10154106"/>
+          <Hexadecimal Background="3154968" Foreground="10154106"/>
+          <Non_reserved_keyword Background="3154968" Foreground="clWhite" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Octal Background="3154968" Foreground="10154106"/>
+          <Reserved_word Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+          <SyntaxError Background="3154968" Foreground="clRed"/>
+          <System_functions_and_variables Background="3154968" Foreground="clWhite" Style="fsBold"/>
+        </SchemeVscode_theme>
+      </LangPython>
+      <LangPHP Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Reserved_word Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangPHP>
+      <LangSQL Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Data_type Background="3154968" Foreground="clWhite" Style="fsBold"/>
+          <Default_packages Background="3154968" Foreground="4472295" Style="fsBold"/>
+          <Exception Background="3154968" Foreground="clRed" Style="fsItalic"/>
+          <Function Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Reserved_word Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <Reserved_word__PL_SQL_ Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <SQL_Plus_command Background="clWhite" Foreground="clPurple" Style="fsBold"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangSQL>
+      <LangCascading_style_sheets Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangCascading_style_sheets>
+      <LangJavascript Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Reserved_word Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <String Background="3154968" Foreground="4472295"/>
+          <Symbol Background="3154968" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangJavascript>
+      <LangDiff_File Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Diff_Added_line Background="13434828" Foreground="clBlack"/>
+          <Diff_Changed_Line Background="11206655" Foreground="clBlack"/>
+          <Diff_Chunk_Line_Counts Background="3154968" Foreground="10154106" Style="fsBold"/>
+          <Diff_Chunk_Marker Background="3154968" Foreground="clWhite" Style="fsBold"/>
+          <Diff_Chunk_New_Line_Count Background="3154968" Foreground="9843115" Style="fsBold"/>
+          <Diff_Chunk_Original_Line_Count Background="3154968" Foreground="4472295" Style="fsBold"/>
+          <Diff_New_File Background="3154968" Foreground="clWhite" Style="fsBold"/>
+          <Diff_Original_File Background="3154968" Foreground="11505963" Style="fsBold"/>
+          <Diff_Removed_Line Background="16762823" Foreground="clBlack"/>
+          <Unknown_word Background="clGreen" Foreground="clWhite" Style="fsItalic"/>
+        </SchemeVscode_theme>
+      </LangDiff_File>
+      <LangMS_DOS_batch_language Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsItalic"/>
+          <Key Background="3154968" Foreground="clLime" Style="fsBold"/>
+          <Number Background="3154968" Foreground="10154106"/>
+          <Variable Background="3154968" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangMS_DOS_batch_language>
+      <LangINI_file Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+          <Comment Background="3154968" Foreground="7164470" Style="fsItalic"/>
+          <Section Background="3154968" Foreground="clLime" Style="fsBold"/>
+        </SchemeVscode_theme>
+      </LangINI_file>
+      <Langpo_language_files Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </Langpo_language_files>
+      <LangPike Version="13">
+        <SchemeVscode_theme>
+          <ahaBracketMatch FrameColor="clNone"/>
+          <ahaCodeFoldingTree Background="3154968" Foreground="clWhite"/>
+          <ahaDefault Background="3154968"/>
+          <ahaFoldedCode Background="clWhite" Foreground="13408665" FrameColor="clSilver"/>
+          <ahaFoldedCodeLine Foreground="clNone"/>
+          <ahaGutter Background="3154968"/>
+          <ahaGutterSeparator Background="3154968" Foreground="clWhite"/>
+          <ahaHiddenCodeLine Foreground="clNone"/>
+          <ahaHighlightAll Background="16641517" Foreground="clWhite"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIfDefBlockActive Foreground="clNone"/>
+          <ahaIfDefBlockInactive Foreground="clNone"/>
+          <ahaIfDefBlockTmpActive Foreground="clNone"/>
+          <ahaIfDefNodeActive Foreground="clNone"/>
+          <ahaIfDefNodeInactive Foreground="clNone"/>
+          <ahaIfDefNodeTmpActive Foreground="clNone"/>
+          <ahaIncrementalSearch Background="16641517" Foreground="clWhite"/>
+          <ahaLineHighlight FrameColor="clNone"/>
+          <ahaLineNumber Background="3154968" Foreground="clWhite"/>
+          <ahaModifiedLine Background="clYellow" Foreground="clLime" FrameColor="59900"/>
+          <ahaOutlineLevel10Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel7Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel8Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel9Color MarkupFoldLineColor="clNone"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone" FrameColor="clNone"/>
+          <ahaRightMargin Foreground="clWhite"/>
+          <ahaTextBlock Background="16641517" Foreground="clWhite"/>
+        </SchemeVscode_theme>
+      </LangPike>
+    </ColorSchemes>
+  </Lazarus>
+</CONFIG>
